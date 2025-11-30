@@ -10,6 +10,6 @@ The code performs four main tasks:
 
 How to Run:
 
-Simply execute the Python script in any terminal or command line:
+Execute in any terminal or command line:
 
 python LocalAgentPractical.py
