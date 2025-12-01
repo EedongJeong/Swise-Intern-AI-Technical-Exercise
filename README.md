@@ -6,13 +6,15 @@ The code performs four main tasks:
 
 3. Simulate an OpenAI API Call 
 
-4. Display the Security Insight 
+4. Display the Security Insight
+   
 
-How to Run:
+**How to Run:**
 
 Execute in any terminal or command line:
 
-python LocalAgentPractical.py
+python LocalAgentWithOpenAPIKey.py
+
 
 Utilising OpenAi API Key:
 
