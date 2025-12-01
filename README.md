@@ -17,5 +17,6 @@ python LocalAgentPractical.py
 Utilising OpenAi API Key:
 
 1. Retrieve API key from OpenAI website
-2. Input setx OPENAI_API_KEY "sk-proj-abc123..." in any terminal
+2. Install OpenAI module with Git Bash using 'python -m pip install openai' if needed
+3. Input setx OPENAI_API_KEY "sk-proj-abc123..." in any terminal
 
